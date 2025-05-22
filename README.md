@@ -97,7 +97,9 @@ Ensure your Excel file (`excel.xlsx`) includes the following columns:
 ## 🧑‍💻 Author
 
 **Yuval Kogan**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/yuval-kogan)
+
 💻 [GitHub](https://github.com/KoganTheDev)
 
 ---
@@ -105,4 +107,3 @@ Ensure your Excel file (`excel.xlsx`) includes the following columns:
 ## 📄 License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
-
