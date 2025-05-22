@@ -1,0 +1,6 @@
+# WhatsApp Automation Run State
+excel_file: hightech_in_tavor.xlsx
+start_row: 2 
+rows_to_process: 40
+# Edit these values to control which file, row, and how many rows to process.
+# The script will update start_row as it progresses.
